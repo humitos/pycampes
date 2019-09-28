@@ -1,5 +1,5 @@
-Agenda de los días
-==================
+Programa
+========
 
 Los días tendrán una estructura genérica basada en los horarios de desayuno, almuerzo, y cena. Quedando el resto del día a cargo de cada participante para sumarse a la actividad que desee realizar:
 

@@ -5,7 +5,7 @@ PyCamp España
    :maxdepth: 1
 
    venue
-   agenda
+   programa
    proyectos
    ediciones-anteriores
 
