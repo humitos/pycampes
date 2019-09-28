@@ -5,15 +5,15 @@ PyCamp España
    :maxdepth: 1
 
    venue
+   agenda
    proyectos
    ediciones-anteriores
-
 
 
 ¿Qué es un PyCamp?
 ------------------
 
-El PyCamp consiste en apoderarse de un lugar (como puede ser una Casa Rural) en el que un grupo de programadores (20 a 30 personas) nos juntamos a programar y divertirnos durante 4 días completos. Los asistentes proponen los proyectos Open Source en los que desean trabajar durante estos días (o alguna idea un poco loca que quieran implementar) y el resto se anota para colaborar y trabajar en esos proyectos. Así, se determinan diferentes slots de tiempo para cada proyecto durante todos los días y cada programador trabaja, dentro de los slots asignados, en los proyectos que más le han llamado la atención. Esta dinámica se mantiene durante los 4 días que dura el evento, trabajando mañana, tarde y hasta la noche (si lo desean).
+El PyCamp consiste en *apoderarse* de un lugar (como puede ser una Casa Rural) en el que un grupo de programadores (20 a 30 personas) nos juntamos a programar y divertirnos durante 4 días completos. Los asistentes proponen los proyectos Open Source en los que desean trabajar durante estos días (o alguna idea un poco loca que quieran implementar) y el resto se anota para colaborar y trabajar en esos proyectos. Así, se determinan diferentes slots de tiempo para cada proyecto durante todos los días y cada programador trabaja, dentro de los slots asignados, en los proyectos que más le han llamado la atención. Esta dinámica se mantiene durante los 4 días que dura el evento, trabajando mañana, tarde y hasta la noche (si lo desean).
 
 Durante los 4 días que dura el evento, todos los asistentes desayunan, almuerzan, cenan y duermen en el lugar que se haya alquilado para el evento. Esto hace que sea un evento sin ninguna distracción, que compartamos mucho tiempo en comunidad y colaboremos programando en lo que más nos gusta.
 
@@ -36,32 +36,6 @@ El PyCamp es un evento inclusivo donde se potencian las habilidades de programac
 
 Durante los 4 días (fin de semana largo) los asistentes al evento se hospedan en el mismo lugar y comparten espacios de trabajo en equipo en los Hack donde pueden proponer proyectos o sumarse a un equipo para un proyecto ya asignado tambiénque dura el evento, habrá algunas actividades pre-establecidas y otras que se presentarán el mismo día de la apertura del PyCamp dependiendo de los proyectos e ideas que propongan los participantes.
 
-Los días tendrán una estructura genérica basada en los horarios de desayuno, almuerzo, y cena. Quedando el resto del día a cargo de cada participante para sumarse a la actividad que desee realizar.
-
-Agenda de los días
-~~~~~~~~~~~~~~~~~~
-
-* 08 - 10hs: Desayuno
-* 10 - 13hs: Hack
-* 13 - 14hs: Almuerzo
-* 14 - 21hs: Hack
-* 21 - 22hs: Cena
-* 22 - ... : Actividades de integración
-
-
-Hack
-++++
-
-Este es el espacio principal del evento. Consiste en trabajar en los proyectos presentados por los asistentes en la apertura del evento (o cualquier cosa que haya surgido durante el mismo evento).
-
-Los proyectos presentados pueden ser de cualquier tipo, desde trabajar en los issues de un proyecto Open Source, inventar algo totalmente nuevo, investigar algún hardware, un taller de electrónica, hasta un taller de malabares o esgrima medieval. También promovemos las actividades por fuera de los ordenadores para estar en contacto con la naturaleza: caminatas, cabalgatas, y/o la oferta local de actividades brindadas por el lugar del evento.o que ofrezca el lugar que consigamos.
-
-Es importante tener en cuenta que la organización no propone las actividades o proyectos a realizar durante el tiempo de Hack, sino que es indispensable que se trabaje en lo que los mismos asistentes llevan/proponen.
-
-Actividades de integración
-++++++++++++++++++++++++++
-
-Luego de todo un dia de hack, es importante relajarse y divertirse. Esto potencia las relaciones dentro de la comunidad y hace que crezca. En este tiempo se propone realizar actividades como Juegos de Rol, Juegos de Mesa, Karaoke de charlas, narración de cuentos, torneo de Futbolín/Ping Pong y demás actividades de distensión.
 
 Fecha
 -----
@@ -73,21 +47,6 @@ Dias de fiesta tentativos:
 * Jueves 19 de Marzo (Dia del Padre)
 * Viernes 10 de Abril (Pascua)
 * Viernes 1 de Mayo (Dia del trabajador)
-
-Lugar / Venue
--------------
-
-Pensamos que las "Casas / Masías rurales" pueden ser una buena opción y quizás cumplan con todos los requisitos:
-
-* Alejado de la ciudad
-* Cerca de la naturaleza
-* Conectividad a internet
-* Habitaciones para 30 personas
-* Comedor para 30 personas (desayuno / almuerzo / cena)
-* Salon para Hack (mesas / tablas y sillas con respaldar)
-* Energía / Enchufes en el Salon de Hack
-* Posibilidad de trabajar en grupos de 4 o 5 en diferentes espacios
-* Espacios alternativos de distracción
 
 Movilidad
 ---------
