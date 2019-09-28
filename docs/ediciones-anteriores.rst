@@ -2,7 +2,7 @@ Ediciones anteriores
 ====================
 
 Aunque esta es la primera edición del PyCamp en España, este evento tiene una larga trayectoria.
-Si quieres conocer más sobre las ediciones anteriores puedes leer más en los artículos publicados por sus asistentes:
+Si quieres conocer más sobre las ediciones anteriores puedes leer los artículos publicados por sus asistentes:
 
 
 2019
