@@ -2,10 +2,11 @@ PyCamp España
 =============
 
 .. toctree::
-   :depth: 1
+   :maxdepth: 1
 
-   ediciones-anteriores
    venue
+   proyectos
+   ediciones-anteriores
 
 
 
