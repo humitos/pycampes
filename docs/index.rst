@@ -59,3 +59,29 @@ Debido a que las Casas/Masías Rurales por lo general están en las afuera de la
 Estimamos que el costo por persona, teniendo en cuenta un máximo de 30 participantes, será de aproximadamente EUR 200 por persona. Esto incluye alojamiento, desayuno, almuerzo y cena en la Casa Rural que se alquile durante los 4 días que dura el PyCamp.
 
 Este costo por persona podría reducirse significativamente, dependendiendo de la cantidad de Sponsors que se consigan con anterioridad a la registración.
+
+¿Te interesa la idea?
+---------------------
+
+Suscribite pare recibir todas las novedades sobre el PyCamp España 2020 y no quedarte afuera.
+¡Los cupos son limitados!
+
+.. raw:: html
+
+   <!-- Begin Mailchimp Signup Form -->
+   <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+   <style type="text/css">
+     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+     /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+   </style>
+   <div id="mc_embed_signup">
+     <form action="https://gmail.us20.list-manage.com/subscribe/post?u=14411abdd5b5c38809a459da7&amp;id=ef7898fbc2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+       <div id="mc_embed_signup_scroll">
+         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+         <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_14411abdd5b5c38809a459da7_ef7898fbc2" tabindex="-1" value=""></div>
+         <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+       </div>
+     </form>
+   </div>
+   <!--End mc_embed_signup-->
